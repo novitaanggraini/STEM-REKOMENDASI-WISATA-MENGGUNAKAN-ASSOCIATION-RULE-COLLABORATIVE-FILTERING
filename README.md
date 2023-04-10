@@ -1,0 +1,2 @@
+# STEM-REKOMENDASI-WISATA-MENGGUNAKAN-ASSOCIATION-RULE-COLLABORATIVE-FILTERING
+Sistem dibuat menggunakan bahasa pemrograman python
